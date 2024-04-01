@@ -14,6 +14,8 @@ footer{
     text-align: center;
 }
 /* Er is gebruik gemaakt van alle 3 de kleurencodes om aan te tonen dat ik ze snap. mijn persoonlijke voorkeur gaat echter uit naar rgb schema's omdat deze makkelijker en sneller aan te passen zijn.*/
+
+/* ID's */
  /* tabel 1, rij 1, cel 1 tot 4 */
 #td1_1{
     background-color: blueviolet;
@@ -72,7 +74,7 @@ footer{
 #td4_4{
     background-color: #191970;
 }
-
+/* Klassen */
 /* kleur aan de woorden geven door middel van het toevoegen van een "class" */
 .webdesign{
     background-color: rgb(255, 0, 0);
@@ -97,4 +99,4 @@ footer{
 }
 .voorwaarden{
     background-color: rgb(120, 120, 120);
-    }
+}
