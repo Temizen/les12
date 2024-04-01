@@ -13,7 +13,7 @@ footer{
     color: olive;
     text-align: center;
 }
-
+/* Er is gebruik gemaakt van alle 3 de kleurencodes om aan te tonen dat ik ze snap. mijn persoonlijke voorkeur gaat echter uit naar rgb schema's omdat deze makkelijker en sneller aan te passen zijn.*/
  /* tabel 1, rij 1, cel 1 tot 4 */
 #td1_1{
     background-color: blueviolet;
