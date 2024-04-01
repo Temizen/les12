@@ -1,0 +1,100 @@
+header{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(150, 170, 90);
+    color: olive;
+    text-align: center;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(150, 170, 90);
+    color: olive;
+    text-align: center;
+}
+
+ /* tabel 1, rij 1, cel 1 tot 4 */
+#td1_1{
+    background-color: blueviolet;
+}
+#td1_2{
+    background-color: violet;
+}
+#td1_3{
+    background-color: blue;
+}
+#td1_4{
+    background-color: cornflowerblue;
+}
+
+/* tabel 1, rij 2, cel 1 tot 4 */
+
+#td2_1{
+    background-color: rgb(0, 255, 0);
+}
+#td2_2{
+    background-color: rgb(0, 200, 0)
+}
+#td2_3{
+    background-color: rgb(0, 150, 0);
+}
+#td2_4{
+    background-color: rgb(0, 100, 0);
+}
+
+/* tabel 1, rij 3, cel 1 tot 4 */
+
+#td3_1{
+    background-color: rgb(255, 0, 100);
+}
+#td3_2{
+    background-color: rgb(255, 0, 150);;
+}
+#td3_3{
+    background-color: rgb(255, 0, 200);;
+}
+#td3_4{
+    background-color: rgb(255, 0, 250);
+}
+
+/* tabel 1, rij 4, cel 1 tot 4 */
+
+#td4_1{
+    background-color: #b0171f;
+}
+#td4_2{
+    background-color: #dc143c;
+}
+#td4_3{
+    background-color: #ff82ab;
+}
+#td4_4{
+    background-color: #191970;
+}
+
+/* kleur aan de woorden geven door middel van het toevoegen van een "class" */
+.webdesign{
+    background-color: rgb(255, 0, 0);
+}
+.cursus{
+    background-color: #ff5000;
+}
+.frontend{
+    background-color: chartreuse;
+}
+.html5{
+    background-color: yellow;
+}
+.mappenstructuur{
+    background-color: goldenrod;
+}
+.willekeurig{
+    background-color: #aaab23;
+}
+.backspace{
+    background-color: #317f43;
+}
+.voorwaarden{
+    background-color: rgb(120, 120, 120);
+    }
